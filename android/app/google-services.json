@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795371833793",
+    "project_id": "login-c9aac",
+    "storage_bucket": "login-c9aac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795371833793:android:f2af53d53b30d355f64740",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795371833793-ht4jn22k7d8726bp549liep8v10neu89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzdfVdK43Ta7NncM80HVsoFV-pCrTnRa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795371833793-ht4jn22k7d8726bp549liep8v10neu89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
